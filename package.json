@@ -13,14 +13,15 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "ssob20 <ssobs170@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.0.4",
     "async-request": "^1.2.0",
     "bignumber.js": "^9.0.1",
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.0.3",
     "log4js": "^6.4.4",
     "web3": "^1.3.4"
-  }
+  },
+  "repository": "https://github.com/yuyasugano/pancake-bakery-arbitrage"
 }
