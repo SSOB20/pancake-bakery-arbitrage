@@ -16,7 +16,7 @@
   "author": "ssob20 <ssobs170@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@truffle/hdwallet-provider": "^2.0.4",
+    "@truffle/hdwallet-provider": "^2.1.7",
     "async-request": "^1.0.0",
     "bignumber.js": "^9.0.1",
     "dotenv": "^16.0.3",
